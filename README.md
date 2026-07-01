@@ -19,11 +19,12 @@ Attending proffessor - Pf. Khushi Dhunna
 
 #Topics covered:
 1. What is hackathon and what skills are required?
--> - A hackathon is a competition where individuals or teams rapidly prototype solutions to real-world problems, typically in technology or software development.
+-> A hackathon is a competition where individuals or teams rapidly prototype solutions to real-world problems, typically in technology or software development.
    - it's duration is usually 24-48 hours
    - it's purose is to create innovation, netorking and skill- building.
 <br>
 -> Skills required:
+<br>
    - Programming Fundamentals: Comfort with languages like Python, JavaScript, or C++.
    - Debugging & Problem Solving: Ability to quickly fix errors under time pressure.
    - APIs & Integrations: Using APIs for login, payments, maps, or AI features.
@@ -31,6 +32,7 @@ Attending proffessor - Pf. Khushi Dhunna
    - Version Control (Git): Collaborating efficiently without losing work.
 <br>
 -> How to solve:
+<br>
    - Form a diverse team (developer, designer, presenter).
    - Pick a clear, impactful problem.
    - Brainstorm and settle on one strong idea.
@@ -39,7 +41,7 @@ Attending proffessor - Pf. Khushi Dhunna
    - Prepare a clear pitch (problem → solution → demo → impact).
    - Show real-world relevance and potential scalability.
  
-2. Career Domains in CSE:
+3. Career Domains in CSE:
    - Software Development
    - Data Science & Analytics
    - Artificial Intelligence & Machine Learning
@@ -47,21 +49,21 @@ Attending proffessor - Pf. Khushi Dhunna
    - Cloud Computing
    - Web & Mobile Development
    - Database Management & Networking
-3. opportunites after CSE:
+4. opportunites after CSE:
    - HR
    - Sales manager / marketing
    - Backend developer
    - Full stack developer
    - Front end developer
    - Business analyst
-4. What is API?
+5. What is API?
     An API defines how software components should interact. Enables developers to access functionality (like login, payments, maps, or weather data) without building everything from scratch.
    <br>
    Types:
    - Web APIs (e.g., REST, GraphQL) → used for internet-based services.
    - Library APIs → functions provided by programming libraries.
    - Operating System APIs → allow apps to interact with the OS (like Windows API).
-5. Why Linux / mac is used in companies?
+6. Why Linux / mac is used in companies?
    <br>
    They are chosen by companies because of :
     - Stability & Performance – Reliable systems with fewer crashes.
