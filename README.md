@@ -15,7 +15,7 @@
   - The marking scheme
  
 ## Venue SL-IV
-Attendin proffessor - Pf. Khushi Dhunni
+Attending proffessor - Pf. Khushi Dhunna
 
 #Topics covered:
 1. What is hackathon and what skills are required?
